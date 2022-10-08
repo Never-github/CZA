@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ziangcui/Desktop/c++/102 层序遍历/main.cpp
+iostream
+-
+vector
+/Users/ziangcui/Desktop/c++/102 层序遍历/vector
+queue
+-
+
